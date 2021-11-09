@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProgrammerBhanu
 - 👀 I’m interested in Data Science Field
-- 🌱 I’m currently learning Machine Learning libraries 
+- 🌱 I’m currently learning full Stack Developer 
 - 💞️ I’m looking to collaborate on my new Project
 - 📫 How to reach me ...
 
