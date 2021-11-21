@@ -55,7 +55,7 @@
  <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerBhanu&theme=tokyonight&layout=compact&exclude_repo=FT-WEB-12-U3-C4-Eval&border_radius=0" alt="ProgrammerBhanu" />
 </p>
-<br>
+
 <h3><i>Top Repositories <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /> </i></h3>
 
 <p>
