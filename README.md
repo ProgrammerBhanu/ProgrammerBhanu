@@ -59,11 +59,11 @@
 <h3><i>Top Repositories <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /> </i></h3>
 
 <p>
-<a href="https://github.com/ProgrammerBhanu/TataCliq-Project">
+<a href="https://github.com/nileshagrawal98/MPL_Clone">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerBhanu&repo=TataCliq-Project&theme=tokyonight&locale=en&border_radius=0" alt="ProgrammerBhanu"/>
 </a>
   <a href="https://github.com/ProgrammerBhanu/Personal-alexa">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerBhanu&repo=Personal-alexa&theme=tokyonight&locale=en&border_radius=0" alt="ProgrammerBhanu"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nileshagrawal98&repo=MPL_Clone&theme=tokyonight&locale=en&border_radius=0" alt="ProgrammerBhanu"/>
 </a>
 </p>
 
