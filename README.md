@@ -41,7 +41,7 @@
 </p>
 <h3><i>A passionate full-stack web developer from India</i></h3>
 
--   👩‍💻 I’m currently learning Backend and practicing Data Structure and Algorithm  
+-   👩‍💻 Software Engineer At Omnicell India
 -   💬 Ask me about: Java / Springboot / GraphQL / MicroServices / Javascript / HTML / CSS / Python / MongoDB 
 -   📫 How to reach me: <a href = "mailto: soankiboy9561@gmail.com">soankiboy9561@gmail.com</a>
 -   <a href = "https://drive.google.com/file/d/1E1iR4mIXa9wG9J3jWPp3VGE-B0Sxi-b4/view?usp=sharing" target="_blank">My Resume</a>
